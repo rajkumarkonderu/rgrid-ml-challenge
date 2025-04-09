@@ -24,6 +24,13 @@ This project is a text classification solution for the RGrid Machine Learning Ch
 
 ```bash
 pip install -r requirements.txt
+flask
+scikit-learn
+pandas
+numpy
+joblib
+requests
+
 
 Run the Flask API
 python main.py
