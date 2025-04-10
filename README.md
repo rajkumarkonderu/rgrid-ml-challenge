@@ -19,10 +19,11 @@ This project is a text classification solution for the RGrid Machine Learning Ch
   - Parkinson’s Disease
 
 ## How to Run
+Run the Flask API
+python main.py
+python test.py
 
-### 1. Install dependencies
-
-```bash
+### Install dependencies
 pip install -r requirements.txt
 flask
 scikit-learn
@@ -32,6 +33,4 @@ joblib
 requests
 
 
-Run the Flask API
-python main.py
-python test.py
+
